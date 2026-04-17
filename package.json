@@ -1,0 +1,19 @@
+{
+  "name": "r-maker",
+  "version": "1.0.0",
+  "description": "https://github.com/apurvaojas/docx-merger#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derzunov/r-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derzunov/r-maker/issues"
+  },
+  "homepage": "https://github.com/derzunov/r-maker#readme"
+}
