@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/derzunov/r-maker/issues"
   },
-  "homepage": "https://github.com/derzunov/r-maker#readme"
+  "homepage": "https://github.com/derzunov/r-maker#readme",
+  "dependencies": {
+    "docx-merger": "^1.2.2"
+  }
 }
