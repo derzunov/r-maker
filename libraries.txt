@@ -1,3 +1,1 @@
-## R-maker
-
 https://github.com/apurvaojas/docx-merger#readme
